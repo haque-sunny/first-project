@@ -1,5 +1,6 @@
 body {
     font-family: 'Oxygen', sans-serif;
+    margin: 0px;
 }
 h1{
     font-size: 60px;
@@ -29,4 +30,8 @@ section{
     border-radius: 3px;
     color: white;
     font-weight: 800;
+}
+#top-section{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
 }
